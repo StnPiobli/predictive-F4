@@ -151,8 +151,3 @@ dispo, heures = disponibilite(
 
 ---
 
-## Projet PROMA
-
-**EFREI Paris** — ING2 PPE 2025–2026  
-Client : BAHY  
-Référence CDC : `ING2-CDC-PROMA-2026 V4`
